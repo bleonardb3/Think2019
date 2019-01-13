@@ -1,5 +1,4 @@
-# Think 2019 - Session 3259 Labs
-Introduction to Data Science using IBM Watson Studio. 
+# Think 2019 Session 3259 - Hands On Lab: Introduction to Data Science using IBM Watson Studio. 
 
 ## Description:
 
