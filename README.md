@@ -11,11 +11,11 @@ Work with IBM's Watson Studio in this workshop to build, train, and test machine
 
 ## Instructions: Create a Watson Studio project and set up the required services. 
 
-### Step 1.  Log into your Watson Studio account at datascience.ibm.com, then select `View All Projects`.
+### Step 1.  Log into your Watson Studio account at datascience.ibm.com, then select `Projects` and `View All Projects`.
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20View%20All%20Projects.png"/>
 
-### Step 2.  If you have an existing project from following the signup instructions then select it, and skip to Step 8.  Otherwise, click on `New Project`. 
+### Step 2.  Click on `New Project`. 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
 
 ### Step 3. Enter the project name (eg. Watson Studio Labs), optionally a description, and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 8. 
