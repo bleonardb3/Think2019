@@ -1,14 +1,13 @@
-# ML_POT_11-08
-Class material for November 8, 2018 Hands-on Introduction to Machine Learning with Watson Studio
+# Think 2019 - Session 3259 Labs
+Introduction to Data Science using IBM Watson Studio. 
 
 ## Description:
 
-Work with IBM's Watson Studio in this workshop to build, train, and test machine learning/deep learning models. Participants will be led through the following four hands-on labs: 
+Work with IBM's Watson Studio in this workshop to build, train, and test machine learning/deep learning models. Participants will be led through the following three hands-on labs: 
 
 1. [Lab-1](Lab-1) - The first lab will use Jupyter Notebooks and the XGBoost library to apply machine learning to a classification problem in the healthcare profession. The Watson Machine Learning API will then be used to save and deploy the model. 
 1. [Lab-2](Lab-2) - The second lab will demonstrate Watson Machine Learning capabilites to simplify the building and deployment of machine learning models. The ability to monitor and adjust the deployed model will be demonstrated via the continuous learning capability of Watson Studio. 
 1. [Lab-3](Lab-3) - The third lab will feature the new Watson Studio Neural Network modeler, and Experiment Assistant to build, train, and test a Convolutional Neural Network to classify images.  
-1. [Lab-4](Lab-4) - For the 4th lab, we have 5 "sub-labs" that all operate on the same dataset and demonstrate (4a) Watson Machine Learning deployment of a Machine Learning model, and DevOps to build an application that invokes the deployed model, (4b) Visual Drag and Drop creation of a machine learning model pipeline, (4c) data profiling, visualization, and preparation using the Data Refinery, (4d) Spark Machine Learning via a Jupyter Notebook, and (4e) a dashboard lab. 
 
 ## Instructions: Create a Watson Studio project and set up the required services. 
 
