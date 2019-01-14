@@ -18,7 +18,7 @@ Work with IBM's Watson Studio in this workshop to build, train, and test machine
 ### Step 2.  Click on `New Project`. 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
 
-### Step 3. Enter the project name (eg. Watson Studio Labs), optionally a description, and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 8. 
+### Step 3. Enter the project name (eg. Watson Studio Labs), optionally a description, de-select the `Restruct who can be a collaborator  checkbox` and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 8. 
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
