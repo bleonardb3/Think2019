@@ -11,7 +11,7 @@ Work with IBM's Watson Studio in this workshop to build, train, and test machine
 
 Before starting the labs, the following prerequisites must be completed. 
 
-## Instructions: Create a Watson Studio project and set up the required services. 
+## Prerequisites: Create a Watson Studio project and set up the required services. 
 
 ### Step 1.  Log into your Watson Studio account at datascience.ibm.com, then select `Projects` and `View All Projects`.
 
