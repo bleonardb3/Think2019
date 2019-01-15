@@ -9,6 +9,8 @@ Work with IBM's Watson Studio in this workshop to build, train, and test machine
 1. [Lab-2](Lab-2) - The second lab will demonstrate Watson Machine Learning capabilites to simplify the building and deployment of machine learning models. The ability to monitor and adjust the deployed model will be demonstrated via the continuous learning capability of Watson Studio. 
 1. [Lab-3](Lab-3) - The third lab will feature the new Watson Studio Neural Network modeler, and Experiment Assistant to build, train, and test a Convolutional Neural Network to classify images.  
 
+Before starting the labs, the following prerequisites must be completed. 
+
 ## Instructions: Create a Watson Studio project and set up the required services. 
 
 ### Step 1.  Log into your Watson Studio account at datascience.ibm.com, then select `Projects` and `View All Projects`.
