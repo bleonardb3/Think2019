@@ -45,10 +45,7 @@ Upon completing the lab, you will know how to:
 1. In the Notebook URL field, use `https://github.com/bleonardb3/Think2019/blob/master/Lab-1/Heart%20Disease.ipynb`.
 1. Make sure to change the default environment to the `Default Spark Python 3.5 XS environment.` 
 
-### Step 5. Click the Set Kernel button in the popup. 
-> <img src="https://github.com/bleonardb3/ML_POT_11-08/blob/master/Lab-1/images/Set%20Kernel.png"/>
-
-### Step 6.  Follow the instructions in the notebook.
+### Step 5.  Follow the instructions in the notebook.
 
 
 
