@@ -34,7 +34,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  We are now going to create a new notebook in our project. This notebook will be created from a url that points to the Heart Disease notebook in the github repository. Click the `Add to project` link and then the `Notebook` link as shown below. 
 
-> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/AddToProject.png"/>
+> <img src="https://github.com/bleonardb3/Think2019/blob/master/Lab-1/images/AddToProject.png"/>
 
 ### Step 4.  Create the notebook.
 
