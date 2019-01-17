@@ -17,4 +17,4 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/Think2019/raw/master/Lab-2/Watson_Studio_Continuous_Learning%202.7%20(External%20DB2%20Warehouse).pdf).
+[Instructions](https://github.com/bleonardb3/Think2019/raw/master/Lab-2/Watson_Studio_Continuous_Learning%202.8%20(External%20DB2%20Warehouse).pdf).
