@@ -13,9 +13,10 @@ Before starting the labs, the following prerequisites must be completed.
 
 ## Prerequisites: Create a Watson Studio project and set up the required services. 
 
-### Step 1.  Log into your Watson Studio account at datascience.ibm.com, then select `Projects` and `View All Projects`.
+### Step 1.  Log into your Watson Studio account at datascience.ibm.com, then click on the hamburger icon, then `Projects`, and then `View All Projects`
+> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/images/Navigation%20Selection.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/images/ViewAllProjects.png"/>
 
-> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20View%20All%20Projects.png"/>
 
 ### Step 2.  Click on `New Project`. 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
