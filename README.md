@@ -44,41 +44,32 @@ Before starting the labs, the following prerequisites must be completed.
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Click%20Project%20Create.png"/>
 
-### Step 9. 
-
-The labs in this Proof of Technology will require the following services to be created and associated with your project. 
-1. Object Storage
-1. Watson Machine Learning
-1. Apache Spark  
-
-The Object Storage service instance should already exist, having been created when the Watson Studio Labs (or whatever you named it) project was created. Both the Watson Machine Learning service, and the Apache Spark service need to be created and then associated with the project.  
-
-### Step 10.  Click on the project `Settings` tab.
+### Step 9.  Click on the project `Settings` tab.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Settings.png"/>
 
-### Step 11. Scroll down to `Associated Services`, then select `Add service` and select `Watson`.
+### Step 10. Scroll down to `Associated Services`, then select `Add service` and select `Watson`.
 
 > <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/images/SelectWatsonService.png"/>
 
-### Step 12. Select the `Machine Learning` service 
+### Step 11. Select the `Machine Learning` service 
 
 > <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/images/SelectMachineLearningService.png"/>
 
-### Step 13. Select `New`.
+### Step 12. Select `New`.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20New%20Service.png"/>
 
-### Step 14. Select the `Lite` plan. 
+### Step 13. Select the `Lite` plan. 
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Lite%20ML.png"/>
 
-### Step 15. Scroll down and click `Create`, then change the `Service name` to `Machine Learning` in the `Confirm Creation` panel and click `Confirm`.  
+### Step 14. Scroll down and click `Create`, then change the `Service name` to `Machine Learning` in the `Confirm Creation` panel and click `Confirm`.  
 
 > <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/images/ConfirmMachineLearningCreation.png"/>
 
-### Step 16. The Machine Learning service that you created should now appear in `Associated Services`. 
+### Step 15. The Machine Learning service that you created should now appear in `Associated Services`. 
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/See%20ML%20in%20Associated%20Services..png"/>
 
-### Step 17. Follow the same process as in steps 10-14, except this time add a Spark service. 
+### Step 16. Follow the same process as in steps 10-14, except this time add a Spark service. 
