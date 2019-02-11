@@ -24,7 +24,7 @@ Before starting the labs, the following prerequisites must be completed.
 ### Step 3. Click on `Standard` 
 > <img src="https://github.com/bleonardb3/Think2019/blob/master/images/ProjectType.png"/>
 
-### Step 4. Enter the project name (eg. Watson Studio Labs), optionally a description, de-select the `Restruct who can be a collaborator  checkbox` and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 8. 
+### Step 4. Enter the project name (eg. Watson Studio Labs), optionally a description, de-select the `Restruct who can be a collaborator  checkbox` and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 9. 
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
