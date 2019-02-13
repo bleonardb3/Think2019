@@ -24,7 +24,7 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Log into your Watson Studio account at datascience.ibm.com, then click on the hamburger icon, then `Projects`, and then `View All Projects`
+### Step 1.  Click on the hamburger icon, then `Projects`, and then `View All Projects`
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/images/Navigation%20Selection.png"/>
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/images/ViewAllProjects.png"/>
 
