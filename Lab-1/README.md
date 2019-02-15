@@ -44,7 +44,7 @@ Upon completing the lab, you will know how to:
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Heart Disease` and optionally you can give it a description.
 1. In the Notebook URL field, use `https://github.com/bleonardb3/Think2019/blob/master/Lab-1/Heart%20Disease.ipynb`.
-1. Make sure to change the default environment to the `Default Spark Python 3.5 XS environment.` 
+1. `*****  WARNING!!!!! MAKE SURE TO CHANGE THE ENVIRONMENT TO Default Spark Python 3.5 XS environment *******`
 
 ### Step 5.  Follow the instructions in the notebook.
 
