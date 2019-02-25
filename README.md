@@ -72,3 +72,5 @@ Before starting the labs, the following prerequisites must be completed.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/See%20ML%20in%20Associated%20Services..png"/>
 
+### Step 16. Repeat steps 10-15 to create a Spark service. 
+
